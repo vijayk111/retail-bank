@@ -1,0 +1,73 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family: sans-serif;
+}
+
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+
+#customerForm {
+	margin-top: 5%;
+}
+
+#customerPanel{
+	width: 40%;
+	padding: 2%;
+	font-size: 14px;
+	float: left;
+}
+
+legend{
+	font-size: 14px;
+}
+
+#aTable{
+	width: 60%;
+	float: right;
+	padding: 2%;
+	font-size: 14px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  margin-left: 5%;
+  float: left;
+}
+
+th{
+  background-color: #e6ac00;
+  border: 1px solid #000;
+  text-align: left;
+  padding: 6px;
+  font-size: 14px;
+}
+
+td{
+  border: 1px solid #000;
+  text-align: left;
+  padding: 6px;
+  font-size: 14px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+#cabutton{
+	float: left;
+	margin-left:4.9%
+}
+
+#back{
+	margin-left:10%
+}
+
+#createAccounts{
+	display: none;
+}

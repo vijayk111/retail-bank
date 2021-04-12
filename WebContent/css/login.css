@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family: sans-serif;
+}
+
+#smallNav{
+	background-color: #000000;
+}
+
+#navItem{
+	background-color: #ffcc00;
+	width: 80%;
+	margin-left: 10%;
+	height: 25px;
+	padding-top: 5px;
+	float: left;
+}
+
+a{
+	color: #000;
+	text-decoration: none;
+	padding : 20px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 15px;
+}
+
+a: hover {
+	background-color: #e6e600;
+	color: #000000;
+}
+
+#loginForm {
+	margin-top: 5%;
+	margin-left: 5%;
+}
+
+#loginPanel{
+	width: 30%;
+	padding: 2%;
+}
+
+legend{
+	font-size: 14px;
+}

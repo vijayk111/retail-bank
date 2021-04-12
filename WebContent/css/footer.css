@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+#footer{
+	background-color: #000000;
+	color: #fff;
+	text-align: center;
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+h3{
+	margin-top: 1px;
+	font-size: 14px;
+}
+
+p{
+	margin-top: -10px;
+	margin-bottom: 5px;
+	font-size: 12px;
+}
